@@ -43,7 +43,7 @@ a:hover {
 
 section {
     background-color: #f7ebf2;
-    max-width: 90%;
+    max-width: 1200px;
     margin: 30px auto;
     padding: 25px;
     border-radius: 16px;
@@ -100,17 +100,7 @@ box-shadow: 0 8px 20px rgba(140, 90, 120, 0.2);
     background-color: #8c5378;
     border: 2px solid #6b3d5a;
     color: #ffffff;
-}
-section {
-    background-color: #f7eff6;
-    max-width: 500px;
-    margin: 40px auto;
-    padding: 40px;
-    border-radius: 16px;
-    display: flex;
-    flex-direction: column;
-    box-shadow: 0 8px 24px rgba(208, 158, 200, 0.15);
-    border: 1px solid #ebd8e8;
+
 }
 .Quem-Somos {
     text-align: center;
