@@ -2,30 +2,30 @@
     margin: 0;
 }
 header{
-    background-color: bisque;
-    color: brown;
+    background-color: rgb(208, 158, 200);
+    color: rgba(74, 56, 76, 0.515);
     padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 #titulo{
-    color: aquamarine;
+    color: rgb(58, 39, 59);
 }
 nav{
     border: 2px solid; 
     margin-top: 10px;
 }
 a{
-    color: rgb(37, 61, 81);
+    color: rgb(53, 39, 53);
     padding: 0 10px;
     text-decoration: none;
 }
 a:hover{
-    background-color: rgb(26, 30, 34);
+    background-color: rgb(153, 118, 162);
 }
 section{
-    background-color: rgb(97, 122, 144);
+    background-color: rgb(208, 158, 200);
     max-width: 90%;
     margin: 20px auto;
     padding: 10px;
