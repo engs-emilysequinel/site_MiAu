@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: bisque;
+    color: brown;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
