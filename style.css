@@ -125,3 +125,11 @@ section {
     line-height: 1.8;
     margin-bottom: 20px;
 }
+#Loja {
+    color: #4a2e3b;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5);
+}
