@@ -9,3 +9,18 @@ header{
     flex-direction: column;
     align-items: center;
 }
+#titulo{
+    color: aquamarine;
+}
+nav{
+    border: 2px solid; 
+    margin-top: 10px;
+}
+a{
+    color: rgb(37, 61, 81);
+    padding: 0 10px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(26, 30, 34);
+}
